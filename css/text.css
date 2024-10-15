@@ -1,0 +1,46 @@
+.video-title {
+    font-family: arial;
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+.view-para {
+    font-family: arial;
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-top: 0;
+}
+.name-para {
+    font-family: arial;
+    font-size: 14px;
+    color:rgb(96, 96, 96);
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+.main-para {
+    font-family: arial;
+    font-size: 14px;
+    color:rgb(96, 96, 96);
+    width:250px;
+    line-height: 20px;
+    margin-bottom: 70px;
+}
+.apple-text {
+    font-family: arial;
+    font-size: 14px;
+    background-color: rgb(227, 65, 64);
+    color: white;
+    text-align: center;   
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 500px;
+    }
+
+.shop-ele {
+    cursor: pointer;
+}   
+.shop-ele:hover {
+    text-decoration: underline ;
+}

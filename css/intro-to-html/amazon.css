@@ -1,0 +1,33 @@
+.cart-button {
+    height: 36px;
+    width: 120px;
+    border-radius:18px ;
+    border-color: rgb(234, 184, 56);
+    background:  rgb(234, 184, 56);
+    border-style: solid;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.15s;
+
+}
+.cart-button:hover {
+    opacity: 0.7;
+}
+.buy-button {
+    height: 36px;
+    width: 120px;
+    border-radius: 18px;
+    border-color: rgb(232, 167, 45);
+    border-style: solid;
+    background: rgb(232, 167, 45) ;
+    color: black;
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.15s;
+
+}
+.buy-button:hover {
+    opacity: 0.7;
+}
